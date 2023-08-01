@@ -1,4 +1,5 @@
-### Hi there 👋, Im Shantanu Kapse
+<h1 align="center">Hi there 👋, Im Shantanu Kapse</h1>
+<h3 align="center">A MERN stack developer with an interest in Competitive Programming👩‍💻</h3>
 
 <!--
 **Raycurve/Raycurve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +15,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about MongoDB, Express, React.js, Node.js (MERN), Blender
 - 📫 How to reach me: shantanu.sk05@gmail.com
 - ⚡ Fun fact: You can send me a cat picture and I'll consider you as a friend🐱
-- ⚡ another Fun fact: Im a weeb too🐱‍👤
+- ⚡ Another Fun fact: Im a weeb too🐱‍👤
 
 
 
@@ -28,7 +29,6 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=Raycurve&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Raycurve&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raycurve&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Raycurve&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
@@ -41,5 +41,6 @@ Here are some ideas to get you started:
 -->
 ---
 [![](https://visitcount.itsvg.in/api?id=Raycurve&icon=0&color=0)](https://visitcount.itsvg.in)
+   
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
