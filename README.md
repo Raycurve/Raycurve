@@ -5,7 +5,7 @@
 
 # 💫About Me:
 
-- 🔭 I’m currently working on ReactJS
+- 🔭 I’m currently working on MERN stack and Redux
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on MERN stack projects
 - 🤔 I’m looking for help with exploring Devops
